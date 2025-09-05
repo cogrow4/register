@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "Cogrow4",
+    "email": "cogrow@duck.com"
+  },
+  "records": {
+    "A": ["172.66.0.70"]
+    }
+  }
+}
